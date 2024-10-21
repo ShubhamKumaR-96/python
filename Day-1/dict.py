@@ -5,4 +5,7 @@ marks={
     "eva":45,
 }
 
-print(marks, type(marks))
+# print(marks, type(marks))
+print(marks.items())
+print(marks.keys())
+print(marks.values())
